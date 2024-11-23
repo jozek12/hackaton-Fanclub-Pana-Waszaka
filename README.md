@@ -14,10 +14,10 @@ Cel gry: Zbierz 4 fragmenty pierścienia, aby ukończyć grę.
 
 **Sterowanie**
 
-Ruch: W, A, S, D 
-Skok: Spacja 
-Teleportacja między światami: F 
-Podnoszenie przedmiotów: E 
+Ruch: W, A, S, D \
+Skok: Spacja \
+Teleportacja między światami: F \
+Podnoszenie przedmiotów: E \
 Pauza: Esc 
 
 **Jak grać**
